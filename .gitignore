@@ -35,3 +35,4 @@
 # Build data ignore
 out/
 .vs/
+node_modules/
